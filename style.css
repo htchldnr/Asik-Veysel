@@ -1,9 +1,11 @@
-h1{
-    color: darkred; 
+.green {
+    color: maroon;
 }
-h2{
-    color: rgb(224, 52, 61); background-color: khaki;
+.large-font {
+    font-size: 36px;
 }
-h3 { 
-    color: darkgreen;
-}
+
+/* h1{
+     color: maroon;
+     font-size: 36px;
+} */
