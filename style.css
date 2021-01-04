@@ -1,5 +1,9 @@
-.green {
-    color: darkgreen;}
-
-.large-font{
-    font-size: 42px;}
+h1{
+    color: darkred; 
+}
+h2{
+    color: rgb(224, 52, 61); background-color: khaki;
+}
+h3 { 
+    color: darkgreen;
+}
